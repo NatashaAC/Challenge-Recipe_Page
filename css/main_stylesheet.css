@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Young Serif';
+    src: url('../assets/fonts/young-serif/YoungSerif-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    background-color: hsl(30, 54%, 90%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+main {
+    margin: 75px auto;
+    padding: 45px;
+    width: 800px;
+    border-radius: 20px;
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(30, 10%, 34%);
+}
+
+section {
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Young Serif', serif;
+    font-weight: 400;
+    font-size: 45px;
+    color:  hsl(24, 5%, 18%);
+    padding: 20px 0 0;
+}
+
+p {
+    padding: 20px 0;
+}
+
+h2 {
+    font-family: 'Young Serif', serif;
+    font-weight: 400;
+    color: hsl(14, 45%, 36%);
+}
+
+li {
+    margin: 10px;
+    list-style-position: inside;
+}
+
+#prepTime {
+    padding: 20px;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 15px;
+}
+
+h3 {
+    margin: 0;
+    color: hsl(332, 51%, 32%);
+}
+
+img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.divider {
+    max-width: 700px;
+    border-top: 1px solid hsl(30, 18%, 87%);
+    margin: 0 auto;
+}
+
+.nutritionTable {
+    width: 100%;
+}
+
+.nutritionTable td {
+    padding: 15px;
+    border-bottom: 2px solid hsl(30, 18%, 87%);
+}
+
+.nutritionValues {
+    font-weight: 600;
+    color: hsl(14, 45%, 36%);
+}
+
+.credits {
+    bottom: 0;
+    padding: 5px;
+    color: hsl(24, 5%, 18%);
+    font-size: 12px;
+    text-align: center;
+}
+
+.credits p a {
+    color: hsl(30, 10%, 34%);
+    text-decoration: none;
+    font-style: italic;
+}

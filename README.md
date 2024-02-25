@@ -29,8 +29,8 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Frontend Mentor Solution](https://your-solution-url.com)
+- [Live Site](https://natashaac.github.io/Challenge-Recipe_Page/)
 
 ## My process
 

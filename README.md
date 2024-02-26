@@ -29,7 +29,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### Links
 
-- [Frontend Mentor Solution](https://your-solution-url.com)
+- [Frontend Mentor Solution](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm/hub?share=true)
 - [Live Site](https://natashaac.github.io/Challenge-Recipe_Page/)
 
 ## My process
